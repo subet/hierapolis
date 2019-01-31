@@ -79,3 +79,6 @@ The names and logos for lab2023 are trademarks of lab2023, inc.
 ## License
 
 Copyright 2014 lab2023 – information technologies
+
+## By Subet
+You can find this theme and similar bootstrap admin themes on: https://usebootstrap.com/themes/admin-dashboard
